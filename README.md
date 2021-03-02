@@ -26,4 +26,6 @@
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
 
-<footer align="center">&copy; FelipePDS</footer>
+<br>
+
+<p align="center">&copy; FelipePDS</p>
