@@ -4,7 +4,7 @@
 
 <h2 align="center">Clasees</h2>
 
-<table>
+<table align="center">
   <tr>
     <th>class</th>
     <th>status</th>
