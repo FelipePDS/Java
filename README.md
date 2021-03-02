@@ -29,11 +29,11 @@
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td>25/02/2021 - Objects</td>
+    <td>25/02/2021 - Object Orientation</td>
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td>02/03/2021 - Visibility</td>
+    <td>02/03/2021 - Visibility in Object Orientation</td>
     <td>:heavy_check_mark:</td>
   </tr>
 </table>
