@@ -21,19 +21,23 @@
 <table align="center">
   <tr align="center">
     <th>CLASS</th>
+    <th>DATE</th>
     <th>STATUS</th>
   </tr>
   
   <tr align="center">
-    <td>24/02/2021 - Project in Java</td>
+    <td>Project in Java</td>
+    <td>24/02/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td>25/02/2021 - Object Orientation</td>
+    <td>Object Orientation</td>
+    <td>25/02/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td>02/03/2021 - Visibility in Object Orientation</td>
+    <td>Visibility</td>
+    <td>02/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
 </table>
