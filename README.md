@@ -6,22 +6,24 @@
 
 <table align="center">
   <tr align="center">
-    <th>class</th>
-    <th>status</th>
+    <th>CLASS</th>
+    <th>STATUS</th>
   </tr>
   
-  <tr align="center">>
+  <tr align="center">
     <td>24/02/2021 - Project in Java</td>
     <td>:heavy_check_mark:</td>
   </tr>
-  <tr align="center">>
+  <tr align="center">
     <td>25/02/2021 - Objects</td>
     <td>:heavy_check_mark:</td>
   </tr>
-  <tr align="center">>
+  <tr align="center">
     <td>02/03/2021 - Visibility</td>
     <td>:heavy_check_mark:</td>
   </tr>
 </table>
+
+<blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
 
 <footer align="center">&copy; FelipePDS</footer>
