@@ -7,7 +7,7 @@
 
 <br>
 
-<h2 align="center">:paperclip: Technologies :paperclip:</h2>
+<h2 align="center">:white_circle: Technologies :black_circle:</h2>
 <ul>
   <li>Java - jdk1.8.0_281</li>
   <li>Java - jre1.8.0_281</li>
