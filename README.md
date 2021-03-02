@@ -2,9 +2,17 @@
 
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
+<h2 align="center">Description</h2>
 <p align="center">Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
-<h3 align="center">Classes</h3>
+<h2 align="center">Technologies :paperclip:</h2>
+<ul>
+  <li>Java - jdk1.8.0_281</li>
+  <li>Java - jre1.8.0_281</li>
+  <li>NetBeans 8.2 - code editor</li>
+</ul>
+
+<h2 align="center">Classes</h2>
 
 <table align="center">
   <tr align="center">
