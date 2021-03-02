@@ -1,4 +1,4 @@
-# <h2 align="center">Java Exercises</h2>
+<h2 align="center">Java Exercises</h2>
 
 <p align="center">Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
