@@ -2,7 +2,7 @@
 
 <p align="center">Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
-<h2 align="center">Clasees</h2>
+<h3 align="center">Classes</h3>
 
 <table align="center">
   <tr align="center">
