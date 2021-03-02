@@ -5,12 +5,16 @@
 <h2 align="center">Description</h2>
 <p align="center">Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
+<br>
+
 <h2 align="center">:paperclip: Technologies :paperclip:</h2>
 <ul>
   <li>Java - jdk1.8.0_281</li>
   <li>Java - jre1.8.0_281</li>
   <li>NetBeans 8.2 - code editor</li>
 </ul>
+
+<br>
 
 <h2 align="center">Classes</h2>
 
