@@ -40,6 +40,11 @@
     <td>02/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td>POO - 1</td>
+    <td>05/03/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
 </table>
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
