@@ -19,8 +19,8 @@
 
 <h2 align="center" id="technologies">Technologies</h2>
 <p align="center">
-  <p align="center">&bull; Compiller Java - jdk1.8.0_281</p>
-  <p align="center">&bull; Compiller Java - jre1.8.0_281</p>
+  <p align="center">&bull; Compiler Java - jdk1.8.0_281</p>
+  <p align="center">&bull; Compiler Java - jre1.8.0_281</p>
   <p align="center">&bull; NetBeans 8.2 - code editor</p>
 </p>
 
