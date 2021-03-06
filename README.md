@@ -51,4 +51,5 @@
 
 <br>
 
-<p align="center">&copy; FelipePDS</p>
+<h2 align="center">License</h2>
+<p align="center">MIT License &nbsp;&bull;&nbsp; &copy; FelipePDS</p>
