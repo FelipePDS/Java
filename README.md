@@ -18,11 +18,11 @@
 <br>
 
 <h2 align="center" id="technologies">Technologies</h2>
-<ul>
-  <li>Java - jdk1.8.0_281</li>
-  <li>Java - jre1.8.0_281</li>
-  <li>NetBeans 8.2 - code editor</li>
-</ul>
+<p align="center">
+  <p>&bull; Java - jdk1.8.0_281</p>
+  <p>&bull; Java - jre1.8.0_281</p>
+  <p>&bull; NetBeans 8.2 - code editor</p>
+</p>
 
 <br>
 
