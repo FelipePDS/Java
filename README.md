@@ -2,14 +2,22 @@
 
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
-<h2 align="center">Description</h2>
+<h2 align="center">Summary</h2>
+<p align="center">
+  <a href="#description">Description</a>
+  <a href="#technologies">Technologies</a>
+  <a href="#classes">Classes</a>
+  <a href="#license">License</a>
+</p>
+
+<h2 align="center" id="description">Description</h2>
 <p align="center">:coffee: Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
 <blockquote>Exercises Status: In Progress :construction:</blockquote>
 
 <br>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center" id="technologies">Technologies</h2>
 <ul>
   <li>Java - jdk1.8.0_281</li>
   <li>Java - jre1.8.0_281</li>
@@ -18,7 +26,7 @@
 
 <br>
 
-<h2 align="center">Classes</h2>
+<h2 align="center" id="classes">Classes</h2>
 
 <table align="center">
   <tr align="center">
@@ -53,5 +61,5 @@
 
 <br>
 
-<h2 align="center">License</h2>
+<h2 align="center" id="license">License</h2>
 <p align="center"><a href="https://github.com/FelipePDS/Java/blob/master/LICENSE">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS</p>
