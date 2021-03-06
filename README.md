@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
 <h2 align="center">Description</h2>
-<p align="center">Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
+<p align="center">:coffee: Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
 <br>
 
