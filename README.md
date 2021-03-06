@@ -4,9 +4,9 @@
 
 <h2 align="center">Summary</h2>
 <p align="center">
-  <a href="#description">Description</a>
-  <a href="#technologies">Technologies</a>
-  <a href="#classes">Classes</a>
+  <a href="#description">Description</a> &bull; 
+  <a href="#technologies">Technologies</a> &bull; 
+  <a href="#classes">Classes</a> &bull; 
   <a href="#license">License</a>
 </p>
 
