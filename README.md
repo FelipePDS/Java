@@ -5,7 +5,7 @@
 <h2 align="center">Description</h2>
 <p align="center">:coffee: Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
-<blockquote>Exercises Status: :construction:</blockquote>
+<blockquote>Exercises Status: In Progress :construction:</blockquote>
 
 <br>
 
