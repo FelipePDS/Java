@@ -5,6 +5,7 @@
 <h2 align="center">Summary</h2>
 <p align="center">
   <a href="#description">Description</a> &bull; 
+  <a href="#clone">Clone Subdirectories</a> &bull; 
   <a href="#technologies">Technologies</a> &bull; 
   <a href="#classes">Classes</a> &bull; 
   <a href="#license">License</a>
@@ -14,6 +15,16 @@
 <p align="center">:coffee: Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
 <blockquote>Exercises Status: In Progress :construction:</blockquote>
+
+<br>
+
+<h2 align="center" id="clone">Clone Subdirectories</h2>
+<p align="center">if you want to clone one of the exercises (subdirectories), just have git bash on your computer to give the following commands</p>
+
+```bash
+# create a folder with the name of the exercise and enter it
+mkdir name-dir && cd name-dir
+```
 
 <br>
 
