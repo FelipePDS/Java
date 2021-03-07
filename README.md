@@ -39,8 +39,9 @@ $ git config core.sparseCheckout true
 $ echo 'nameOfTheSubdirectory' >> .git/Java/sparse-checkout
 
 # pull the subdirectory
-$ gil pull origin master
+$ git pull origin master
 ```
+<blockquote>Font: <a href="https://terminalroot.com.br/2019/09/como-clonar-somente-um-subdiretorio-com-git-ou-svn.html">terminalroot.com.br</a></blockquote>
 
 <br>
 
