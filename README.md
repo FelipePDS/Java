@@ -1,6 +1,6 @@
 <h2 align="center">Java Exercises</h2>
 
-<p align="center"><a href="https://github.com/FelipePDS/Java/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/Java"/></a> <img src="https://img.shields.io/static/v1?label=Java&message=v1.8.0_281&color=ED8B00&style=flat&logo=java"/></p>
+<p align="center"><a href="https://github.com/FelipePDS/Java/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/Java"/></a> <img src="https://img.shields.io/static/v1?label=Java&message=v1.8.0_281&color=ED8B00&style=flat&logo=java"/> <img src="https://img.shields.io/static/v1?label=NetBeans&message=v8.2&color=1B6AC6&style=flat&logo=NetBeans"/></p>
 
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
@@ -9,7 +9,8 @@
   <a href="#description">Description</a> &bull; 
   <a href="#clone">Clone Subdirectories</a> &bull; 
   <a href="#technologies">Technologies</a> &bull; 
-  <a href="#classes">Classes</a> &bull; 
+  <a href="#classes">Classes</a><br>
+  <a href="#author">Author</a> &bull; 
   <a href="#license">License</a>
 </p>
 
@@ -96,6 +97,9 @@ $ git pull origin master
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
 
+<h2 align="center" id="author">Author</h2>
+<p align="center">by <a href="https://felipepds.github.io/felipepds-resume/">FelipePDS</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/felipe-p-da-silva-a55b891ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiErPy3g7Q1KGOaD%2BsGw%2Fpg%3D%3D"><img src="https://img.shields.io/static/v1?label=+&message=Felipe+P.+Da+Silva&color=0A66C2&style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/FelipePintoDaS1"><img src="https://img.shields.io/static/v1?label=+&message=@FelipePintoDaS1&color=1DA1F2&style=flat&logo=twitter&logoColor=white"/></a> <img src="https://img.shields.io/static/v1?label=+&message=felipepdasilva66@gmail.com&color=EA4335&style=flat&logo=gmail&logoColor=white"/></p>
 <br>
 
 <h2 align="center" id="license">License</h2>
