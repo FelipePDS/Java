@@ -1,5 +1,7 @@
 <h2 align="center">Java Exercises</h2>
 
+<p align="center"><a href="https://github.com/FelipePDS/Java/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/Java"/></a> <img src="https://img.shields.io/static/v1?label=Java&message=v1.8.0_281&color=ED8B00&style=flat&logo=java"/></p>
+
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
 <h2 align="center">Summary</h2>
