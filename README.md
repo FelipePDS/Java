@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
-<h2 align="center">:page_facing_up: Summary</h2>
+<h2 align="center">Summary</h2>
 <p align="center">
-  <a href="#description">Description</a> &bull; 
+  <a href="#description">:page_facing_up: Description</a> &bull; 
   <a href="#clone">Clone Subdirectories</a> &bull; 
   <a href="#technologies">Technologies</a> &bull; 
   <a href="#classes">Classes</a><br>
@@ -14,7 +14,7 @@
   <a href="#license">License</a>
 </p>
 
-<h2 align="center" id="description">Description</h2>
+<h2 align="center" id="description">:page_facing_up: Description</h2>
 <p align="center">:coffee: Java exercises to meet requirements of the subject PW-2 (Programming for Web) of ETEC MCM</p>
 
 <blockquote>Exercises Status: In Progress :construction:</blockquote>
