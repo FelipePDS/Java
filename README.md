@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/FelipePDS/Java/blob/master/outros/java.webp"/></p>
 
-<h2 align="center">Summary</h2>
+<h2 align="center">:page_facing_up: Summary</h2>
 <p align="center">
   <a href="#description">Description</a> &bull; 
   <a href="#clone">Clone Subdirectories</a> &bull; 
