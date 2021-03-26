@@ -1,4 +1,4 @@
-<h2 align="center">Java Exercises</h2>
+<h1 align="center">Java Exercises</h2>
 
 <p align="center"><a href="https://github.com/FelipePDS/Java/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/Java"/></a> <img src="https://img.shields.io/static/v1?label=Java&message=v1.8.0_281&color=ED8B00&style=flat&logo=java"/> <img src="https://img.shields.io/static/v1?label=NetBeans&message=v8.2&color=1B6AC6&style=flat&logo=NetBeans"/></p>
 
