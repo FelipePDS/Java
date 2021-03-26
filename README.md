@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#description">:page_facing_up: Description</a> &bull; 
   <a href="#clone">:open_file_folder: Clone Subdirectories</a> &bull; 
-  <a href="#technologies">Technologies</a> &bull; 
+  <a href="#technologies">:computer: Technologies</a> &bull; 
   <a href="#classes">Classes</a><br>
   <a href="#author">Author</a> &bull; 
   <a href="#license">License</a>
@@ -50,7 +50,7 @@ $ git pull origin master
 
 <br>
 
-<h2 align="center" id="technologies">Technologies</h2>
+<h2 align="center" id="technologies">:computer: Technologies</h2>
 <p align="center">
   <p align="center">&bull; Compiler Java - jdk1.8.0_281</p>
   <p align="center">&bull; Compiler Java - jre1.8.0_281</p>
