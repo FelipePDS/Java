@@ -93,6 +93,11 @@ $ git pull origin master
     <td>11/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td>Inheritance between classes</td>
+    <td>25/03/2021</td>
+    <td>:construction:</td>
+  </tr>
 </table>
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
