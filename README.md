@@ -79,17 +79,17 @@ $ git pull origin master
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/FelipePDS/Java/tree/master/CalculoDeArea">Visibility</a></td>
+    <td><kbd><a href="https://github.com/FelipePDS/Java/tree/master/CalculoDeArea">Visibility</a></kbd></td>
     <td>02/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/FelipePDS/Java/tree/master/QuantidadeAzuleijos">POO - 1</a></td>
+    <td><kbd><a href="https://github.com/FelipePDS/Java/tree/master/QuantidadeAzuleijos">POO - 1</a></kbd></td>
     <td>05/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/FelipePDS/Java/tree/master/exercicios-lista01-java">Exercises List - 1</a></td>
+    <td><kbd><a href="https://github.com/FelipePDS/Java/tree/master/exercicios-lista01-java">Exercises List - 1</a></kbd></td>
     <td>11/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
