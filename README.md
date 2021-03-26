@@ -7,7 +7,7 @@
 <h2 align="center">Summary</h2>
 <p align="center">
   <a href="#description">:page_facing_up: Description</a> &bull; 
-  <a href="#clone">Clone Subdirectories</a> &bull; 
+  <a href="#clone">:open_file_folder:Clone Subdirectories</a> &bull; 
   <a href="#technologies">Technologies</a> &bull; 
   <a href="#classes">Classes</a><br>
   <a href="#author">Author</a> &bull; 
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center" id="clone">Clone Subdirectories</h2>
+<h2 align="center" id="clone">:open_file_folder:Clone Subdirectories</h2>
 <p align="center">If you want to clone one of the exercises (subdirectories), just have git bash on your computer to give the following commands</p>
 
 ```bash
