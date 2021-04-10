@@ -96,7 +96,7 @@ $ git pull origin master
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Cinema">Inheritance between classes</a></kbd></td>
     <td>25/03/2021</td>
-    <td>:construction:</td>
+    <td>:heavy_check_mark:</td>
   </tr>
 </table>
 
