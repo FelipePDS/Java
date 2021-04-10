@@ -46,7 +46,7 @@ $ git pull origin master
 ```
 <blockquote>Font: <a href="https://terminalroot.com.br/2019/09/como-clonar-somente-um-subdiretorio-com-git-ou-svn.html">terminalroot.com.br</a></blockquote>
 
-<p>If you want to clone the entire project: <code>$ git clone https://github.com/FelipePDS/Java.git</code></p>
+<p>If you want to clone the entire project: <code>$ git clone https://github.com/FelipePDS/java.git</code></p>
 
 <br>
 
@@ -109,3 +109,4 @@ $ git pull origin master
 
 <h2 align="center" id="license">License</h2>
 <p align="center"><a href="https://github.com/FelipePDS/Java/blob/master/LICENSE">MIT License</a> &nbsp;&bull;&nbsp; &copy; FelipePDS</p>
+ 
