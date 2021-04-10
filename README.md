@@ -32,14 +32,14 @@ $ mkdir name-dir && cd name-dir
 $ git init
 
 # crawl the repositorie
-$ git remote add -f origin https://github.com/FelipePDS/Java
+$ git remote add -f origin https://github.com/FelipePDS/java
 
 # active sparse checkout
 $ git config core.sparseCheckout true
 
-# Create a file in the path: .git/Java/sparse-checkout
+# Create a file in the path: .git/java/sparse-checkout
 # And insert the name of the subdirectory you want to clone
-$ echo 'nameOfTheSubdirectory' >> .git/Java/sparse-checkout
+$ echo 'nameOfTheSubdirectory' >> .git/java/sparse-checkout
 
 # pull the subdirectory
 $ git pull origin master
