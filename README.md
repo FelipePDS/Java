@@ -99,7 +99,7 @@ $ git pull origin master
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Cinema">Screens - 01</a></kbd></td>
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Tela_Exemplo">Screens - 01</a></kbd></td>
     <td>13/04/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
