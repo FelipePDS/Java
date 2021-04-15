@@ -98,6 +98,16 @@ $ git pull origin master
     <td>25/03/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Cinema">Screens - 01</a></kbd></td>
+    <td>13/04/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Cinema">Screens - Radio</a></kbd></td>
+    <td>15/04/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
 </table>
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
