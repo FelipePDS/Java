@@ -22,7 +22,7 @@
 <br>
 
 <h2 align="center" id="clone">:open_file_folder: Clone Subdirectories</h2>
-<p align="center">If you want to clone one of the exercises (subdirectories), just have <kbd><a href="">git bash</a></kbd> on your computer to give the following commands</p>
+<p align="center">If you want to clone one of the exercises (subdirectories), just have <kbd><a href="https://git-scm.com/downloads">git bash</a></kbd> on your computer to give the following commands</p>
 
 ```bash
 # create a folder with the name of the exercise and enter it
