@@ -109,8 +109,13 @@ $ git pull origin master
     <td>:heavy_check_mark:</td>
   </tr>
   <tr align="center">
-    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Telas_De_Sistema_De_Login">Screens - Basic Login System</a></kbd></td>
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Telas_De_Sistema_De_Login">Screens (GUI Swing) - Basic Login System</a></kbd></td>
     <td>29/04/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/Telas_Caixa_Eletronico">Screens - Electronic Box System</a></kbd></td>
+    <td>04/05/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
 </table>
