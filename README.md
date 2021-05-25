@@ -118,6 +118,11 @@ $ git pull origin master
     <td>04/05/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/ProjetoContaDeLuz">Electricity Bill Project</a></kbd></td>
+    <td>25/05/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
 </table>
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
