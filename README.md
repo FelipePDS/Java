@@ -133,6 +133,11 @@ $ git pull origin master
     <td>03/06/2021</td>
     <td>:heavy_check_mark:</td>
   </tr>
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/java/tree/master/ImportacoesNoJavaWeb">Web Java - 03 - Class Import</a></kbd></td>
+    <td>15/06/2021</td>
+    <td>:heavy_check_mark:</td>
+  </tr>
 </table>
 
 <blockquote>Teacher: Anderson Vanin <br> Student: Me, Felipe :sunglasses:</blockquote>
